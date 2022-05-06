@@ -1,2 +1,4 @@
 # Pixels_vedant
-Demo repo for pixels seminar
+My repo for the PIXELS Seminar
+
+
